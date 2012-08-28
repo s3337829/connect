@@ -1,0 +1,18 @@
+#vino 
+{
+  position : absolute;
+  top:172px;
+  left:300px;
+  font-size:12px;
+  font-family:Calibri;
+}
+
+#sbmt
+{ 
+  font-size:10px;
+  font-weight:bold;
+  font-family:Verdana;
+  background-color:#FEFFFE; 
+  border:2px solid; 
+  border-color: #736F6E #736F6E #736F6E #736F6E; 
+}
